@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm sencond year Master's student.
+- I'm a second-year Master's student.
