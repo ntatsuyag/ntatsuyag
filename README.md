@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm a second-year Master's student.
 https://ntatsuyag.github.io/homepage_app/
